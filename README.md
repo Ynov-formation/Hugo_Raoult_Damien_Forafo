@@ -1,3 +1,7 @@
+Pour lancer le projet : npm i puis executer le script run.bat ou lancer les services un par un avec la commande node app.js.
+
+Vous devez créer un fichier .env avec un JWT-SECRET="XXXXX"
+
 Routes pour les Comptes (/api/accounts)
 
     POST /: Crée un nouveau compte.
